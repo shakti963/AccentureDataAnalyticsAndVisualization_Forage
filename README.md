@@ -1,2 +1,2 @@
-# AccentureDataAnalyticsAndVisualization_Forage
-Contains all the tasks of the forage internship 
+# Accenture Data Analytics And Visualization 
+There are four tasks in the Accenture data analyst and Visualization Internship. 
